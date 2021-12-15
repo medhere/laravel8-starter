@@ -1,0 +1,25 @@
+
+
+	# Logs #
+	######################
+	*.log
+
+	# OS generated files #
+	######################
+	.DS_Store*
+	ehthumbs.db
+	Icon?
+	Thumbs.db
+
+	# Editor files #
+	################
+	.vscode
+	@xparta
+
+	# ignore ALL .log files
+	*.log
+
+	# ignore ALL files in ANY directory named temp
+	temp/
+
+	gitpush.bat
